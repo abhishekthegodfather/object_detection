@@ -1,4 +1,4 @@
-# object_detection_using_tensorflow_graph
+# Object Detection Using Tensorflow Graph
 Object Detection using TensorFlow graph and it is done using opencv-python library in python 3.1.0
 
 - please download the pretrained model .pb extension file from the link here https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API
